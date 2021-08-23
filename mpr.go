@@ -1,6 +1,6 @@
 package mpr
 
-type MinimalPlacesResponse interface {
+type MPR interface {
 	Id() int64
 	URI() string
 	Repo() string
