@@ -2,6 +2,8 @@
 
 Go package for defining a minimal places response for Who's On First (WOF) related services.
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/whosonfirst/go-whosonfirst-mpr.svg)](https://pkg.go.dev/github.com/whosonfirst/go-whosonfirst-mpr)
+
 ## Important
 
 This package is still considered experimental. It is meant to work in tandem with the [standard places response](https://github.com/whosonfirst/go-whosonfirst-spr) (SPR) interfaces for Who's On First services. Specifically, the SPR interfaces should implement the "minimal places response" (MPR) interfaces.
